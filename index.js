@@ -88,7 +88,7 @@
                     liked: false
                 },
                 {
-                    icon: 'assets/brac.png',
+                    icon: 'assets/brach.png',
                     name: 'Child Helpline',
                     englishName: 'Child Welfare Service',
                     hotlineNumber: '1111',
