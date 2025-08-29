@@ -43,7 +43,7 @@
                     icon: 'assets/emergency.png',
                     name: 'Ambulance',
                     englishName: 'Ambulance Service',
-                    hotlineNumber: '102',
+                    hotlineNumber: '108',
                     category: 'Medical',
                     liked: false
                 },
@@ -51,7 +51,7 @@
                     icon: 'assets/emergency.png',
                     name: 'Road Accident',
                     englishName: 'Road Accident Helpline',
-                    hotlineNumber: '106',
+                    hotlineNumber: '109',
                     category: 'Road',
                     liked: false
                 },
@@ -59,7 +59,7 @@
                     icon: 'assets/emergency.png',       
                     name: 'Disaster Helpline',
                     englishName: 'Disaster Management',
-                    hotlineNumber: '1090',
+                    hotlineNumber: '1099',
                     category: 'Disaster',
                     liked: false
                 },
@@ -67,7 +67,7 @@
                     icon: 'assets/police.png',
                     name: 'Anti-Corruption',
                     englishName: 'Anti-Corruption Hotline',
-                    hotlineNumber: '106',
+                    hotlineNumber: '1024',
                     category: 'General',
                     liked: false
                 },
@@ -83,7 +83,7 @@
                     icon: 'assets/police.png',
                     name: 'Tourist Helpline',
                     englishName: 'Tourist Assistance',
-                    hotlineNumber: '119',
+                    hotlineNumber: '1199',
                     category: 'Travel',
                     liked: false
                 },
@@ -91,7 +91,7 @@
                     icon: 'assets/brac.png',
                     name: 'Child Helpline',
                     englishName: 'Child Welfare Service',
-                    hotlineNumber: '1098',
+                    hotlineNumber: '1111',
                     category: 'Welfare',
                     liked: false
                 }
